@@ -31,6 +31,7 @@ export class CreateTables extends BaseDatabase{
    `)
    .then(() => { console.log("Tabelas criadas") })
    .catch(printError)
+   
 
    closeConnection = () => { this.connection.destroy() }
 
