@@ -39,6 +39,7 @@ export default class User{
         this._id = value
     }
     
+    
     constructor(
         private _id: string,
         private _name: string,
