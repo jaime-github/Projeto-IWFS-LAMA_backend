@@ -58,4 +58,4 @@ O projeto foi criado com as seguintes tecnologias
 ## ✒️ Autores
 
 **Jaime Epifanio** - [LinkedIn](https://www.linkedin.com/in/jaime-epifanio/), [GitHub](https://github.com/jaime-github)\
-**Henrique Costa** - [LinkedIn](https://www.linkedin.com/in/heinrickcostta/), [GitHub](https://github.com/HEINRICK7)\
+**Henrique Costa** - [LinkedIn](https://www.linkedin.com/in/heinrickcostta/), [GitHub](https://github.com/HEINRICK7)
