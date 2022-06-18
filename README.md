@@ -1,4 +1,4 @@
-# 🎵 Labenu Music Awards
+# 🎵 Projeto: Labenu Music Awards (LAMA)
 
 Labenu Music Awards é uma plataforma feita para gerenciar o festival homônimo. Nela, sem cadastro, é possível ver as atrações de cada um dos dias do festival. Realizando o cadastro como administrador, o usuário pode criar e gerenciar bandas e shows. 
 
@@ -35,10 +35,6 @@ Para criar uma cópia das tabelas no seu banco de dados, execute:\
   JWT_KEY =\
   EXPIRES_IN =
 
-
-## 📄 Documentação da API
-https://documenter.getpostman.com/view/19294478/UyxjF6DN
-
 ## 🛠️ Tecnologias utilizadas
 
 O projeto foi criado com as seguintes tecnologias
@@ -51,8 +47,6 @@ O projeto foi criado com as seguintes tecnologias
 * [MySql](https://www.mysql.com) - Banco de dados usado para aplicação;
 * [Jest](https://jestjs.io/pt-BR/) - Biblioteca de testes em JavaScript/TypeScript;
 * [Knex](http://knexjs.org/) - Ferramenta que possibilita integração de JavaScript com MySQL e
-* [Heroku](https://www.heroku.com) - Usado para hospedagem do projeto.
-
 
  
 ## ✒️ Autores
